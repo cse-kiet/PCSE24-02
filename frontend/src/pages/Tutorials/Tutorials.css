@@ -1,0 +1,26 @@
+.tutorials-container {
+    width: 100vw;
+    height: 100vh;
+    background-image: url('https://images.unsplash.com/photo-1602192509154-0b900ee1f851?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+    background-position: center;
+    background-size: cover;
+    color: black;
+}
+.tutorials-heading {
+    font-size: 54px;
+    margin-left: 100px;
+    padding-top: 50px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.tutorials-content {
+    font-weight: 700;
+    color: rgb(46, 49, 50);
+    font-size: 18px;
+    margin: auto;
+    margin-left: 100px;
+    margin-top: 4px;
+}
+.tutorials-content-container {
+    width: 70%;
+}
